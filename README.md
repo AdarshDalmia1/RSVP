@@ -4,7 +4,7 @@ this case study focusing on RSVP movies using the IMDb dataset. The objective of
 
 The IMDb dataset is a comprehensive source of information about movies, TV shows, and other visual media. This case study aims to explore and analyze the data related to movies produced by RSVP using SQL queries. The insights gained from this analysis can help understand the performance and characteristics of RSVP movies.
 
-Objectives
+# Objectives
 Extract relevant data related to RSVP movies from the IMDb dataset.
 Perform comprehensive analysis using SQL queries.
 Understand trends and patterns in movie ratings and other attributes.
